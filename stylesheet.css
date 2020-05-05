@@ -1,0 +1,173 @@
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+/* title section */
+#title {
+  background-color: #dbe2ef;
+
+}
+.para2
+{
+  color: #C4C7CD;
+  font-family: 'Bitter', serif;
+  font-size: 25px;
+}
+.view {
+  padding-bottom: 8%;
+  background-position: 50% 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center center;
+}
+
+.nav-item {
+  margin-left: 15px;
+  margin-right: 15px;
+  font-size: 20px;
+}
+
+.container {
+  padding: 3%;
+}
+
+.container-pad {
+  padding: 15%;
+  padding-top: 5%;
+  text-align: center;
+}
+
+.nav-link {
+  font-weight: bold;
+}
+
+.mukul {
+
+  font-family: 'Bitter', serif;
+  font-size: 70px;
+  font-weight: bold;
+  color: #4cbbb9;
+}
+
+.mukul2 {
+  font-family: 'Bitter', serif;
+
+margin-top: -20px;
+  font-size: 45px;
+  font-weight: 900;
+  color: #6983aa;
+}
+
+.webdeveloper {
+  color: #009387;
+}
+/* aboutus section */
+.mukulimg{
+    width: 75%;
+
+  }
+  #about-us{
+    text-align: center;
+    background-color: #c9d6df;
+
+    }
+    .icon{
+      padding: 1rem;
+      color: #39424B;
+    }
+    .icon:hover{
+      color:#009387;
+    }
+    .aboutus
+    {
+      width: 100%;
+      padding-left: 20px;
+      padding-right: 20px;
+    }
+
+/* TODO:  */
+.social-button {
+  margin-top: 50px;
+}
+
+.fab {
+  margin-right: 5px;
+}
+
+/* sills section */
+h1 {
+  font-family: 'Bitter', serif;
+  padding-top: 2.5rem;
+  padding-bottom: 1.5rem;
+  text-align: center;
+}
+
+p {
+  font-size: 22px;
+}
+
+#myskill {
+  background-color: #0F1F31;
+  color:#c9d6df;
+  padding-left: 11%;
+  padding-right: 11%;
+  padding-bottom: 9%;
+}
+.skill-heading
+{
+  padding-top: 30px;
+}
+
+#project {
+  text-align: center;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-bottom: 5%;
+  background-color: #c9d6df;
+}
+
+.projectclass {
+  width: 75%;
+}
+.addc{
+  color: #C9D6DF;
+    padding-left: 1rem;
+      padding-right: 1rem;
+      font-size: 20px;
+}
+hover:fab{
+  color: #6C757D;
+}
+.social-button {
+  text-align: center;
+  margin-top: 25px;
+
+}
+.mywork-heading
+{
+  padding: 10px;
+  padding-bottom: 40px;
+}
+/* footer section*/
+#footer
+{
+  background-color: #0F1F31;
+  padding-top: 5%;
+}
+.copy-right-text
+{
+  color: #6C757D;
+  font-size: 15px;
+  text-align: center;
+  padding: 2%;
+  line-height: 5px;
+
+}
+.contact-me
+{
+  text-align: center;
+
+}
